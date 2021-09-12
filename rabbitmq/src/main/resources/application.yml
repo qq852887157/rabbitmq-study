@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: rabbitmq
+  rabbitmq:
+    host: 10.211.55.22
+    port: 5672
+    username: fys
+    password: 12356
+    virtual-host: /ems
